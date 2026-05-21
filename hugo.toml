@@ -1,0 +1,51 @@
+baseURL = "https://daslernen.com"   # Cambia esto después cuando tengas dominio
+languageCode = "es"
+title = "Das Lernen"
+theme = "PaperMod"
+
+# ==================== MULTILINGÜE ====================
+defaultContentLanguage = "es"
+
+[languages]
+[languages.es]
+    languageCode = "es"
+    languageName = "Español"
+    weight = 1
+    contentDir = "content/es"
+
+[languages.de]
+    languageCode = "de"
+    languageName = "Deutsch"
+    weight = 2
+    contentDir = "content/de"
+
+# ==================== DISEÑO ====================
+[params]
+    defaultTheme = "light"
+    disableThemeToggle = false
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowToc = true
+    ShowBreadCrumbs = true
+
+[params.profileMode]
+    enabled = true
+    title = "Das Lernen"
+    subtitle = "Alemán fácil para hispanohablantes"
+    imageUrl = "https://i.imgur.com/placeholder.jpg"   # puedes cambiar después
+
+[menu]
+[[menu.main]]
+    name = "Lecciones"
+    url = "/lecciones/"
+    weight = 10
+
+[[menu.main]]
+    name = "Ejercicios"
+    url = "/ejercicios/"
+    weight = 20
+
+[[menu.main]]
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 30
