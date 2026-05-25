@@ -21,36 +21,68 @@ defaultContentLanguageInSubdir = true
     weight = 2
     contentDir = "content/de"
 
-# ==================== MENÚ ====================
+# ==================== MENÚ ESPAÑOL ====================
 
-[[menu.main]]
+[[languages.es.menu.main]]
     identifier = "inicio"
     name = "Inicio"
     url = "/es/"
     weight = 1
 
-[[menu.main]]
+[[languages.es.menu.main]]
     identifier = "sobre-mi"
     name = "Sobre mí"
     url = "/es/sobre-mi/"
     weight = 2
 
-[[menu.main]]
+[[languages.es.menu.main]]
     identifier = "recursos"
     name = "Recursos"
     url = "/es/recursos/"
     weight = 3
 
-[[menu.main]]
+[[languages.es.menu.main]]
     identifier = "asesorias"
     name = "Asesorías"
     url = "/es/asesorias/"
     weight = 4
 
-[[menu.main]]
+[[languages.es.menu.main]]
     identifier = "contacto"
     name = "Contacto"
     url = "/es/contacto/"
+    weight = 5
+
+# ==================== MENÜ DEUTSCH ====================
+
+[[languages.de.menu.main]]
+    identifier = "start"
+    name = "Start"
+    url = "/de/"
+    weight = 1
+
+[[languages.de.menu.main]]
+    identifier = "ueber-mich"
+    name = "Über mich"
+    url = "/de/ueber-mich/"
+    weight = 2
+
+[[languages.de.menu.main]]
+    identifier = "ressourcen"
+    name = "Ressourcen"
+    url = "/de/ressourcen/"
+    weight = 3
+
+[[languages.de.menu.main]]
+    identifier = "beratungen"
+    name = "Beratungen"
+    url = "/de/beratungen/"
+    weight = 4
+
+[[languages.de.menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/de/kontakt/"
     weight = 5
 
 # ==================== PARÁMETROS ====================
