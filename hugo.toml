@@ -1,32 +1,70 @@
-baseURL = "https://realemania.netlify.app"
+baseURL = "https://realemania.netlify.app/"
 title = "Realemania"
 theme = "PaperMod"
 
-# ==================== MULTILINGÜE ====================
 defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+
+# ==================== IDIOMAS ====================
 
 [languages]
+
 [languages.es]
-    languageCode = "es"
-    languageName = "Español"
+    locale = "es"
+    label = "Español"
     weight = 1
     contentDir = "content/es"
 
 [languages.de]
-    languageCode = "de"
-    languageName = "Deutsch"
+    locale = "de"
+    label = "Deutsch"
     weight = 2
     contentDir = "content/de"
 
-# ==================== DESCRIPCIÓN ====================
+# ==================== MENÚ ====================
+
+[[menu.main]]
+    identifier = "inicio"
+    name = "Inicio"
+    url = "/es/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "sobre-mi"
+    name = "Sobre mí"
+    url = "/es/sobre-mi/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "recursos"
+    name = "Recursos"
+    url = "/es/recursos/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "asesorias"
+    name = "Asesorías"
+    url = "/es/asesorias/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    url = "/es/contacto/"
+    weight = 5
+
+# ==================== PARÁMETROS ====================
+
 [params]
     description = "Más integración, menos ilusión"
     defaultTheme = "light"
     ShowReadingTime = true
     ShowShareButtons = true
     ShowToc = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+
+# ==================== HOMEPAGE ====================
 
 [params.profileMode]
-    enabled = true
-    title = "Realemania"
-    subtitle = "Más integración, menos ilusión"
+    enabled = false
