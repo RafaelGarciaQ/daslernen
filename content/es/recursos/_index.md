@@ -7,7 +7,7 @@ Aquí encontrarás contenido práctico y detallado sobre idioma alemán, integra
 
 ## Categorías
 
-- [Gramática alemana](/es/gramatica/)
+- [Idioma alemán](/es/idioma-aleman/)
 - [Trabajo en Alemania](/es/trabajo/)
 - [Integración en Alemania](/es/integracion/)
 - [Burocracia alemana](/es/burocracia/)

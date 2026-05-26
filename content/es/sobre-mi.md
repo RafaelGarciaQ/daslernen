@@ -1,6 +1,8 @@
 ---
 title: "Sobre mí"
 description: "Mi historia y mi misión con Realemania."
+showToc: false
+showReadingTime: false
 ---
 
 Hola, mi nombre es Rafael.

@@ -95,6 +95,7 @@ defaultContentLanguageInSubdir = true
     ShowToc = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
+    disableAnchoredHeadings = true
 
 # ==================== HOMEPAGE ====================
 

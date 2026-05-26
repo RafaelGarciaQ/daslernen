@@ -2,7 +2,8 @@
 title: "Deutsche Grammatik"
 description: "Klare und praktische Erklärungen der deutschen Grammatik."
 ---
+Hier findest du praktische und verständliche Erklärungen zur deutschen Grammatik.
 
-Hier findest du ausführliche und praktische Erklärungen zur deutschen Grammatik, um die Sprache besser zu verstehen und sie im Alltag natürlicher zu benutzen.
+Das Ziel ist nicht nur Regeln zu lernen, sondern die deutsche Sprache besser zu verstehen und im Alltag korrekt zu benutzen.
 
-Das Ziel ist nicht, Regeln ohne Kontext auswendig zu lernen, sondern wirklich zu verstehen, wie Deutsch funktioniert und wie die Sprache in alltäglichen, beruflichen und akademischen Situationen in Deutschland verwendet wird.
+---
