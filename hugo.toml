@@ -3,7 +3,7 @@ title = "Realemania"
 theme = "PaperMod"
 
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 # ==================== IDIOMAS ====================
 
@@ -14,12 +14,6 @@ defaultContentLanguageInSubdir = true
     label = "Español"
     weight = 1
     contentDir = "content/es"
-
-[languages.de]
-    locale = "de"
-    label = "Deutsch"
-    weight = 2
-    contentDir = "content/de"
 
 # ==================== MENÚ ESPAÑOL ====================
 
@@ -53,45 +47,13 @@ defaultContentLanguageInSubdir = true
     url = "/es/contacto/"
     weight = 5
 
-# ==================== MENÜ DEUTSCH ====================
-
-[[languages.de.menu.main]]
-    identifier = "start"
-    name = "Start"
-    url = "/de/"
-    weight = 1
-
-[[languages.de.menu.main]]
-    identifier = "ueber-mich"
-    name = "Über mich"
-    url = "/de/ueber-mich/"
-    weight = 2
-
-[[languages.de.menu.main]]
-    identifier = "ressourcen"
-    name = "Ressourcen"
-    url = "/de/ressourcen/"
-    weight = 3
-
-[[languages.de.menu.main]]
-    identifier = "beratungen"
-    name = "Beratungen"
-    url = "/de/beratungen/"
-    weight = 4
-
-[[languages.de.menu.main]]
-    identifier = "kontakt"
-    name = "Kontakt"
-    url = "/de/kontakt/"
-    weight = 5
-
 # ==================== PARÁMETROS ====================
 
 [params]
     description = "Más integración, menos ilusión"
     defaultTheme = "light"
     ShowReadingTime = true
-    ShowShareButtons = true
+    ShowShareButtons = false
     ShowToc = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
