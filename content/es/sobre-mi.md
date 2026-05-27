@@ -29,15 +29,15 @@ Creo firmemente que Alemania es un gran país y que vale la pena entender cómo 
 
 ## Mi misión
 
-Con Realemania quiero ayudarte a comprender Alemania de una forma más clara, práctica y realista.
+Con Realemania quiero ayudarte a comprender mejor cómo funciona Alemania y facilitar tu proceso de integración de una forma más clara, realista y orientada a la vida cotidiana.
 
 Aquí encontrarás contenido sobre:
 
-- Gramática alemana explicada de forma clara y práctica
+- Idioma alemán y aprendizaje del idioma
 - Mercado laboral alemán y búsqueda de empleo
 - Cultura laboral y mentalidad alemana
-- Burocracia y trámites importantes
-- Integración profesional, personal y familiar
+- Burocracia y sistema alemán
+- Integración profesional, personal y cultural
 - Vida cotidiana en Alemania
 
 Todo basado en experiencia real, aprendizaje constante y años de adaptación dentro del sistema alemán.

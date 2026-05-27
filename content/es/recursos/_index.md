@@ -1,6 +1,6 @@
 ---
 title: "Recursos"
-description: "Recursos prácticos para integrarte en Alemania."
+description: "Información y orientación para vivir, trabajar e integrarte en Alemania."
 ---
 
 Aquí encontrarás contenido práctico y detallado sobre idioma alemán, integración, mercado laboral, burocracia y vida cotidiana en Alemania.
