@@ -1,18 +1,18 @@
 ---
 title: "Idioma alemán"
-description: "Información práctica y orientación sobre el idioma alemán y su aprendizaje en Alemania."
+description: "Información y orientación sobre el idioma alemán y su aprendizaje en Alemania."
 ---
 
 Aprender alemán es una de las partes más importantes del proceso de integración en Alemania.
 
-En esta sección encontrarás información sobre:
+En esta sección encontrarás contenido sobre:
 
-- Niveles de alemán desde A1 hasta C2
-- Exámenes oficiales y certificaciones
-- Cursos y escuelas de alemán
-- Libros y recursos de estudio
-- Estrategias para aprender alemán de forma más eficiente
-- Alemán para entrevistas, trabajo y vida cotidiana
-- Requisitos de idioma para estudios, trabajo y residencia
+- [Niveles de alemán desde A1 hasta C2](/idioma-aleman/niveles-aleman/)
+- [Exámenes oficiales y certificaciones](/idioma-aleman/examenes-oficiales/)
+- [Cursos y escuelas de alemán](/idioma-aleman/cursos-y-escuelas/)
+- [Libros y recursos de estudio](/idioma-aleman/libros-y-recursos/)
+- [Estrategias para aprender alemán](/idioma-aleman/estrategias-de-aprendizaje/)
+- [Alemán para entrevistas, trabajo y vida cotidiana](/idioma-aleman/aleman-para-trabajo/)
+- [Requisitos de idioma para estudios, trabajo y residencia](/idioma-aleman/niveles-aleman/)
 
-Aquí encontrarás orientación clara y práctica para entender mejor qué necesitas aprender según tus objetivos personales, profesionales y académicos en Alemania.
+El objetivo es ayudarte a comprender mejor qué necesitas aprender según tus objetivos personales, profesionales y académicos en Alemania.
