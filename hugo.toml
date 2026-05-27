@@ -20,31 +20,31 @@ defaultContentLanguageInSubdir = false
 [[languages.es.menu.main]]
     identifier = "inicio"
     name = "Inicio"
-    url = "/es/"
+    url = "/"
     weight = 1
 
 [[languages.es.menu.main]]
     identifier = "sobre-mi"
     name = "Sobre mí"
-    url = "/es/sobre-mi/"
+    url = "/sobre-mi/"
     weight = 2
 
 [[languages.es.menu.main]]
     identifier = "recursos"
     name = "Recursos"
-    url = "/es/recursos/"
+    url = "/recursos/"
     weight = 3
 
 [[languages.es.menu.main]]
     identifier = "asesorias"
     name = "Asesorías"
-    url = "/es/asesorias/"
+    url = "/asesorias/"
     weight = 4
 
 [[languages.es.menu.main]]
     identifier = "contacto"
     name = "Contacto"
-    url = "/es/contacto/"
+    url = "/contacto/"
     weight = 5
 
 # ==================== PARÁMETROS ====================
